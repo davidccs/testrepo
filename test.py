@@ -1,3 +1,3 @@
 print("taco tuesday\n")
-print("hello\n")
+print("lmao")
 print("lalal\n")
